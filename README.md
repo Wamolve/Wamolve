@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Dmitry | Unity | C# | Python | C++ Developer
 
 🚀 **5+ Years of Development Experience** | Crafting clean code and innovative solutions
-
+![366d94f67e9cff8c4d02f7e4367ef6b1](https://github.com/user-attachments/assets/25515421-7c03-4916-b5b4-2f335b87a74a)
 ## 🛠️ Tech Stack & Expertise
 
 **Game Development:**
