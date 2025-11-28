@@ -37,10 +37,9 @@
 
 <div align="left">
 
-[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@domain.com)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)]([https://yourportfolio.com](https://github.com/Wamolve/My-portfolio))
+[![Twitter](https://img.shields.io/badge/✈️-Telegram-1DA1F2?style=for-the-badge&logo=twitter)]([https://twitter.com/yourprofile](https://t.me/+CEFlUVXl1-8xNmIy))
+[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail)](mailto:notlod@yandex.ru)
 
 </div>
 
@@ -48,6 +47,6 @@
 
 <div align="center">
 
-⭐ **Fun Fact:** I've written over 500,000 lines of game code that players have enjoyed worldwide!
+⭐ **Fun Fact:** I've written over 50,000 lines of game code that players have enjoyed!
 
 </div>
