@@ -39,10 +39,12 @@
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)](https://github.com/Wamolve/My-portfolio)
 [![Telegram](https://img.shields.io/badge/🔵-Telegram-1DA1F2?style=for-the-badge&logo=telegram)](https://t.me/+CEFlUVXl1-8xNmIy)
 [![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=yandex)](mailto:notlod@yandex.ru)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white")](https://codeforces.com/profile/Wamolve)
 
 </div>
 
 ---
+![Views](https://komarev.com/ghpvc/?username=Wamolve&abbreviated=true)
 
 <div align="center">
 
