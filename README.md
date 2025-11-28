@@ -38,7 +38,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-blue?style=for-the-badge)]([https://yourportfolio.com](https://github.com/Wamolve/My-portfolio))
 [![Telegram](https://img.shields.io/badge/🔵-Telegram-1DA1F2?style=for-the-badge&logo=telegram)](https://t.me/+CEFlUVXl1-8xNmIy)
-[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=gmail)](mailto:notlod@yandex.ru)
+[![Email](https://img.shields.io/badge/📧-Email-D14836?style=for-the-badge&logo=yandex)](mailto:notlod@yandex.ru)
 
 </div>
 
