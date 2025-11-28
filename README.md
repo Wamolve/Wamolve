@@ -13,9 +13,8 @@
 - **C++** - High-performance Applications, Algorithms
 
 **Tools & Technologies:**
-- Git, Docker, CI/CD, Jenkins, Unity DevOps
-- MySQL, PostgreSQL, MongoDB
-- AWS, Azure, Unity Cloud Services
+- Git, Unity DevOps
+- Unity Cloud Services
 
 ## 📈 GitHub Stats & Activity
 
