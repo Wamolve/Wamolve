@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Dmitry | Unity | C# | Python | C++ Developer
+# 👋 Hello, I'm Dmitry | Unity | C#
 
 🚀 **5+ Years of Development Experience** | Crafting clean code and **innovative solutions**
 ![366d94f67e9cff8c4d02f7e4367ef6b1](https://github.com/user-attachments/assets/25515421-7c03-4916-b5b4-2f335b87a74a)
@@ -7,10 +7,6 @@
 **Game Development:**
 - **Unity Engine** (5+ years) - 2D/3D Games, Mobile Development
 - **C#** - Advanced OOP, Software Architecture, Design Patterns
-
-**Backend & AI:**
-- **Python** - FastAPI, Computer Vision, Machine Learning
-- **C++** - High-performance Applications, Algorithms
 
 **Tools & Technologies:**
 - Git, Unity DevOps
