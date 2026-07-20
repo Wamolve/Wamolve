@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Dmitry | Unity | C# | Python | ML
+# 👋 Hello, I'm Dmitry Belov | Unity | C# | Python | ML
 
 🚀 **5+ Years of Development Experience** | Crafting clean code, interactive games, and **intelligent ML solutions**
 ![366d94f67e9cff8c4d02f7e4367ef6b1](https://github.com/user-attachments/assets/25515421-7c03-4916-b5b4-2f335b87a74a)
