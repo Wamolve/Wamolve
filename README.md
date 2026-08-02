@@ -19,11 +19,8 @@
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wamolve&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wamolve&layout=compact&theme=radical)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Wamolve&theme=radical)
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wamolve&theme=highcontrast&hide_border=true&background=45%2C0D1F7C84%2C9B191960)](https://git.io/streak-stats)
 
 </div>
 
