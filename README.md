@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Dmitry Belov | Unity | C# | Python | ML
 
 🚀 **5+ Years of Development Experience** | Crafting clean code, interactive games, and **intelligent ML solutions**
-![366d94f67e9cff8c4d02f7e4367ef6b1](https://github.com/user-attachments/assets/25515421-7c03-4916-b5b4-2f335b87a74a)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJmenYxMWF4YncwcGNzMzV3NjdqbjlsM3U3bGo5Nnk5M3RmdXEzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPMRVt7jryOR8C7g2G/giphy.gif" width="100%">
 
 ## 🛠️ Tech Stack & Expertise
 
