@@ -2,7 +2,6 @@
 
 🚀 **5+ Years of Development Experience** | Crafting clean code, interactive games, and **intelligent ML solutions**
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJmenYxMWF4YncwcGNzMzV3NjdqbjlsM3U3bGo5Nnk5M3RmdXEzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPMRVt7jryOR8C7g2G/giphy.gif" width="100%">
-
 ## 🛠️ Tech Stack & Expertise
 
 **Game Development:**
@@ -43,9 +42,8 @@
 
 ---
 ![Views](https://komarev.com/ghpvc/?username=Wamolve&abbreviated=true)
-
 <div align="center">
 
 ⭐ **Fun Fact:** I've written over 50,000 lines of code that merge game design with intelligent systems!
-
+![SNAKE](https://raw.githubusercontent.com/Wamolve/Wamolve/output/github-contribution-grid-snake-dark.svg)
 </div>
