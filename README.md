@@ -20,11 +20,13 @@
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wamolve&theme=highcontrast&hide_border=true&background=45%2C0D1F7C84%2C9B191960)](https://git.io/streak-stats)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Wamolve&theme=radical)](https://codeforces.com/profile/Wamolve)
 
 </div>
 
 ## 🏆 Certifications & Achievements
 
+[![Codeforces](https://img.shields.io/badge/Codeforces-1359%20%7C%20Pupil-22c55e?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Wamolve)
 [![Yandex Lyceum ML](https://img.shields.io/badge/Yandex%20Lyceum-Machine%20Learning-red?logo=yandex)](https://)
 [![Ministry of Digital Dev Python](https://img.shields.io/badge/Ministry%20of%20Digital%20Dev-Python%20Advanced-blue?logo=python)](https://)
 [![Unity Certified Programmer](https://img.shields.io/badge/Unity-Certified%20Programmer-green?logo=unity)](https://)
