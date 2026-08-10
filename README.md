@@ -24,7 +24,8 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wamolve&theme=highcontrast&hide_border=true&background=45%2C0D1F7C84%2C9B191960)](https://git.io/streak-stats)[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Wamolve&theme=radical)](https://codeforces.com/profile/Wamolve)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wamolve&theme=highcontrast&hide_border=true&background=45%2C0D1F7C84%2C9B191960)](https://git.io/streak-stats)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Wamolve&theme=radical)](https://codeforces.com/profile/Wamolve)
 
 </div>
 
