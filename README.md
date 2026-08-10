@@ -2,6 +2,11 @@
 
 🚀 **5+ Years of Development Experience** | Crafting clean code, interactive games, and **intelligent ML solutions**
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJmenYxMWF4YncwcGNzMzV3NjdqbjlsM3U3bGo5Nnk5M3RmdXEzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPMRVt7jryOR8C7g2G/giphy.gif" width="100%">
+
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,cs,pytorch,pycharm,clion,vscode,github" /></a>
+</p>
+
 ## 🛠️ Tech Stack & Expertise
 
 **Game Development:**
@@ -19,8 +24,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wamolve&theme=highcontrast&hide_border=true&background=45%2C0D1F7C84%2C9B191960)](https://git.io/streak-stats)
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Wamolve&theme=radical)](https://codeforces.com/profile/Wamolve)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wamolve&theme=highcontrast&hide_border=true&background=45%2C0D1F7C84%2C9B191960)](https://git.io/streak-stats)[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Wamolve&theme=radical)](https://codeforces.com/profile/Wamolve)
 
 </div>
 
