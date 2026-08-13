@@ -20,7 +20,7 @@
 **Tools & Technologies:**
 - Git, GitHub Actions, Unity DevOps, Unity Cloud Services
 
-## 📈 GitHub Stats & Activity
+## 📈 Stats & Activity
 
 <div align="center">
   
